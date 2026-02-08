@@ -1,9 +1,6 @@
 const pages = [
-    { title: "Google", url: "https://www.google.com" },
-    { title: "MDN Web Docs", url: "https://developer.mozilla.org" },
-    { title: "Stack Overflow", url: "https://stackoverflow.com" },
-    { title: "GitHub", url: "https://github.com" },
-    { title: "W3Schools", url: "https://www.w3schools.com" }
+    { title: "Home", url: "https://iceguz0.github.io" },
+    { title: "Text to Binary", url: "https://iceguz0.github.io/convert" },
 ];
 
 const searchInput = document.getElementById('searchInput');
